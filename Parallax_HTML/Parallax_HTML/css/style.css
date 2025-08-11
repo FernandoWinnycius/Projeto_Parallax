@@ -1,0 +1,105 @@
+html, body{
+    margin:0;
+    height:100%;
+    font-family: Lato, sans-serif;
+    color: black;
+}
+
+.parallax1{
+    position: relative;
+    background-image:url("../img/festa junina.webp");
+    height: 100%;
+    opacity: 0.35;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.caption{
+    position: absolute;
+    left: 0;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+
+}
+
+.caption span.border{
+    background-color: red;
+    color: white;
+    padding: 20px;
+    font-size: 25px;
+    letter-spacing: 10px;
+
+}
+
+.box1{
+    background-color: white;
+    text-align: justify;
+    padding: 50px 80px;
+}
+
+.parallax2{
+    position: relative;
+    background-image:url("../img/dança.webp");
+    height: 100%;
+    opacity: 0.65;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.box2{
+    background-color: gray;
+    text-align: justify;
+    padding: 50px 80px;
+}
+
+.parallax3{
+    position: relative;
+    background-image:url("../img/comida.jpg");
+    height: 100%;
+    opacity: 0.65;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.box3{
+    background-color: pink;
+    text-align: center;
+    padding: 50px 80px;
+}
+
+.parallax4          {
+    position: relative;
+    background-image:url("../img/dança.jfif");
+    height: 100%;
+    opacity: 0.65;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax5{
+    position: relative;
+    background-image:url("../img/correio\ elegante.jpg");
+    height: 100%;
+    opacity: 0.65;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.box4{
+    background-color: purple;
+    text-align: center;
+    padding: 50px 80px;
+}
